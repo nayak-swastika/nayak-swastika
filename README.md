@@ -1,6 +1,7 @@
 # Hi there, I'm Swastika Nayak 👋
+<img src="![Screenshot 2024-11-21 225537](https://github.com/user-attachments/assets/8cec8d2a-0523-4002-a46e-e1a35933bd30)
+" alt="Description" width="640">
 
-![Screenshot 2024-11-21 225537](https://github.com/user-attachments/assets/8cec8d2a-0523-4002-a46e-e1a35933bd30)
 - 💻 I am a passionate Full Stack Developer.
 - 🚀 I’m enhancing my skills in Angular and .NET Core.
 - 🌱 Currently diving deeper into React and Next.js and backend.
